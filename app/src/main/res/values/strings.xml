@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Alghamdi-midT2</string>
+    <string name="welcome">Welcome to the project of Salman,190222</string>
+    <string name="go_to_act1">go to act 1</string>
+    <string name="go_to_actt2">go to act 2</string>
+    <string name="go_to_actt3">go to act 3</string>
+    <string name="insert">insert</string>
+    <string name="read_row">read row</string>
+    <string name="delete_row">delete row</string>
+    <string name="search_by_name">search by name</string>
+    search by name
+</resources>
